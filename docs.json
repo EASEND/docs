@@ -16,9 +16,7 @@
           {
             "group": "Начало игры",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
