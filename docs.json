@@ -20,14 +20,9 @@
             ]
           },
           {
-            "group": "Добавленые",
+            "group": "Изменение",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "essentials/markdown"
             ]
           }
         ]
